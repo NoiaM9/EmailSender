@@ -9,6 +9,8 @@ A simple Python application with a graphical user interface (GUI) for sending em
 
 - **User-Friendly Interface:** Intuitive GUI for easy email composition and sending.
 - **Secure Authentication:** Safely send emails by securely inputting email credentials at runtime.
+- When you run the application, it will prompt the user to input their email and password through the graphical user interface (GUI). 
+  This way, the sensitive information is not hardcoded into the code but is entered by the user at runtime.
 - **MIME Support:** Send emails with plain text body and specified subject.
 
 ## Prerequisites
